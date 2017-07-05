@@ -1,7 +1,7 @@
 # panic_recover
 middlewares for web application framework.
-this library provide at logging,writeErrorHttpResponse when panic occured.
-
+provide at logging,writeErrorHttpResponse when panic occured.
+this library designed for myframework [ghost](https://github.com/mappymappy/ghost)
 
 # install
 
